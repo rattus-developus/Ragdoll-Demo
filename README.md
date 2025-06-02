@@ -10,10 +10,10 @@ The demo provided showcases what an average ragdoll looks like. Press the "toggl
 Note: This step can be difficult, but it is out of the scope of this writeup. Many tutorials are available online on how 	to create and import a rigged humanoid character.
 
 2. Open the Unity Ragdoll Creator (GameObject -> 3D Object -> Ragdoll...)
-![Ragdoll Creator](Images/Screenshot 2025-06-02 133156)
+![Ragdoll Creator](Images/Screenshot 2025-06-02 133156.png)
 
 3. Drag the bones in the rigged humanoid character to the appropriate slots in the Unity Ragdoll Creator.
-![Ragdoll Creation](Images/Screenshot 2025-06-02 133541)
+![Ragdoll Creation](Images/Screenshot 2025-06-02 133541.png)
 
 4. Set the appropriate mass for your character (this does not have to relate to real-world physics and can be exaggerated for your desired look)
 

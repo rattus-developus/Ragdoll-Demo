@@ -1,4 +1,6 @@
 # Humanoid Ragdoll
+Assets Used:
+Humanoid Character Dummy by Kevin Iglesias - https://assetstore.unity.com/packages/3d/characters/humanoids/humans/human-character-dummy-178395
 
 ## Description
 Humanoid ragdolls are a physics simulation of a limp humanoid body. If a character seems to fall to the floor naturally as if they had suddenly passed out, a ragdoll is likely being used to achieve that effect. They are utilized in a wide range of games, though primarily in PVP-oriented games such as first-person shooters. They are often used when a humanoid character becomes unconscious in a game or is knocked down.
